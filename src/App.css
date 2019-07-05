@@ -1,0 +1,55 @@
+body{
+  background-color: #282c34;
+  font-size: 16px;
+  color: whitesmoke;
+}
+
+table, th, td {
+  border: 1px solid rgb(204, 206, 97);
+  border-collapse: collapse;
+  margin: 1em;
+  text-align: center;  
+  width: 600px;
+   left:20%;
+}
+
+.products{
+  font-size: 21px;
+  position: absolute;
+  top:40px;
+  left:21%;
+}
+.withdraw-list-data-body {
+  position:absolute;
+  top:10%;
+}
+
+.withdraw-list-data-body th{
+  font-size: 18px;
+}
+
+.edit-class {
+  cursor: pointer;
+}
+
+.edit-class:hover {
+  color:aquamarine;
+}
+
+.shoppingCart {
+  position: absolute;
+  top:250px;
+  left:21%;
+  font-size: 21px;
+}
+
+.shoppingCart-list {
+  position: relative;
+  margin-top: 300px;
+}
+
+
+
+
+ 
+
